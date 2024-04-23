@@ -1,6 +1,6 @@
 # Calculadora 
 
-## Atividade proposta é do Curso de Formação em DevOps do IREDE
+Atividade proposta é do Curso de Formação em DevOps do IREDE
 
 Proposta da atividade: 
 
