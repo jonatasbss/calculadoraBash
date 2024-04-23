@@ -1,4 +1,4 @@
-# Calculadora 
+# Calculadora :abacus:
 
 Atividade proposta é do Curso de Formação em DevOps do IREDE
 
